@@ -1,0 +1,17 @@
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\bin\Debug\net6.0-windows\employee1.exe
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\bin\Debug\net6.0-windows\employee1.deps.json
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\bin\Debug\net6.0-windows\employee1.runtimeconfig.json
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\bin\Debug\net6.0-windows\employee1.dll
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\bin\Debug\net6.0-windows\employee1.pdb
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.csproj.AssemblyReference.cache
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.Form1.resources
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.csproj.GenerateResource.cache
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.AssemblyInfoInputs.cache
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.AssemblyInfo.cs
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.csproj.CoreCompileInputs.cache
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.dll
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\refint\employee1.dll
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.pdb
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\employee1.genruntimeconfig.cache
+C:\Users\mohit\OneDrive\Desktop\GitHub\employee1\obj\Debug\net6.0-windows\ref\employee1.dll
